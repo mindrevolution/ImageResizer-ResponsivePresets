@@ -1,5 +1,5 @@
 # DEPRECATED!
-## Look here for new version: [](https://github.com/imazen/slimmage)
+## Look here for new version: [Slimmage+Slimresponse](https://github.com/imazen/slimmage)
 
 # ResponsivePresets for ImageResizer.Net
 **Effortless reponsive images powered by ImageResizer.Net**
